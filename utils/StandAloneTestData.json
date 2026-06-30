@@ -1,0 +1,7 @@
+{
+    "BASE_URL"   : "https://eventhub.rahulshettyacademy.com",
+    "USER_EMAIL"    : "sandhyakarande09@gmail.com",
+    "USER_PASSWORD" : "@Sanndhya00", 
+    "EVENTTITLE" : "Test Event ${Date.now()}"
+
+}
